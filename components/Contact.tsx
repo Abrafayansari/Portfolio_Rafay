@@ -1,5 +1,5 @@
 import React from 'react';
-import  DEVELOPER_INFO  from '../constants';
+import  {DEVELOPER_INFO}  from '../constants';
 
 const Contact: React.FC = () => {
   return (
