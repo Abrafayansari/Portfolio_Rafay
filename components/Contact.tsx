@@ -58,7 +58,7 @@ const Contact: React.FC = () => {
             <div className="mb-6">
               <span className="text-xs font-mono font-bold text-indigo-400 bg-indigo-500/10 px-3 py-1 rounded-full border border-indigo-500/20">AI PERSONA LIVE</span>
             </div>
-            <AIChat />
+
             <p className="text-center text-[10px] text-slate-500 mt-4 uppercase tracking-[0.2em]">Powered by Gemini 3 Flash</p>
           </div>
         </div>
