@@ -1,6 +1,6 @@
 import { Project, Skill } from './types';
 
-export const ENGINEER_INFO = {
+export const DEVELOPER_INFO = {
   name: "Abdul Rafay Ansari",
   role: "Software Engineer | Backend & Systems Engineering",
   bio: "Software Engineer with 2+ years of experience designing scalable and maintainable systems. Strong foundation in Data Structures & Algorithms, Object-Oriented Design, Database Architecture, and system-level thinking. Focused on performance, clean architecture, and production-grade engineering rather than just building features.",
