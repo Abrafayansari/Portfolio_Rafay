@@ -1,0 +1,8 @@
+{
+  "name": "Elysian Portfolio",
+  "description": "A high-end, AI-powered portfolio for web developers featuring a custom AI persona chat and interactive project showcase.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
